@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.3//EN" "http://www.wapforum.org/DTD/wml13.dtd"> 
+<wml> 
+<head> 
+<meta http-equiv="Cache-Control" content="no-cache" /> 
+<meta name="Author" content="Gail Rahn Frederick" /> 
+<access domain="learnto.mobi" /> 
+</head> 
+<card id="start" title="Sunset Farmers&apos; Market"> 
+<p>Welcome to the <b>Sunset Farmers&apos; Market</b>!</p> 
+<p>Visit us every Wednesday afternoon in the city center for farm-fresh fruit, vegetables and plants.
+</p> 
+</card> 
+</wml>
+
+
+
+
+
